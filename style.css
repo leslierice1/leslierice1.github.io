@@ -1,0 +1,74 @@
+#home {
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Source Sans Pro', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    font-size: 36px;
+}
+
+.name {
+    margin-top: 80px;
+}
+
+ul {
+    list-style-type: none;
+    color: black;
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    display: inline;
+    padding: 5px;
+}
+
+i {
+    color: black;
+}
+
+.links {
+    font-size: 30px;
+}
+
+.sites {
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+.row {
+    /*text-align: center;*/
+}
+
+img {
+    border-radius: 50%;
+}
+
+.small {
+    font-weight: 200;
+    font-size: 12px;
+}
+
+h4 {
+    font-weight: 350;
+}
+
+.publications {
+    font-weight: 343;
+    text-align: left;
+}
+
+p {
+    font-weight: 343;
+}
+
+li a {
+    font-weight: 350;
+}
+
+.pub {
+    font-style: italic;
+}
