@@ -2,7 +2,9 @@
     background-color: white;
     color: black;
     text-align: center;
-    max-width: 800px;
+    margin: 0 0 40px 40px;
+    /* margin-left: 20px; */
+    /* max-width: 800px; */
 }
 
 h3 {
@@ -13,6 +15,7 @@ h3 {
 
 .name {
     margin-top: 80px;
+    padding: 20px;
 }
 
 ul {
@@ -50,7 +53,7 @@ img {
 
 .small {
     font-weight: 200;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 h4 {
@@ -59,11 +62,13 @@ h4 {
 
 .publications {
     font-weight: 343;
+    font-size: 16px;
     text-align: left;
 }
 
 p {
     font-weight: 343;
+    font-size: 16px;
 }
 
 li a {
