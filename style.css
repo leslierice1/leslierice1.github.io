@@ -2,7 +2,7 @@
     background-color: white;
     color: black;
     text-align: center;
-    margin: 0 0 40px 40px;
+    max-width: 1000px;
 }
 
 h3 {
